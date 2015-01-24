@@ -1,0 +1,61 @@
+.credit{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+ }
+
+.altri{
+
+}
+
+#info{
+    flex:0 1 50%;
+
+}
+
+.diverso{
+    color: #ffffff;
+    font-size: 14px;
+}
+
+body{
+    background: #1C1C1C;
+    color: #808080;
+}
+
+
+.lavori{
+
+flex-direction: column;
+
+}
+
+.titoli{
+    border-top: 1px solid #808080;
+    border-bottom: 1px solid #808080;
+    padding: 50px 70px;
+}
+
+.immagine{
+    background: lightblue;
+}
+
+h1{
+    font-size: 100px;
+}
+
+small{
+    font-size: 14px;
+}
+
+
+footer{
+    padding: 70px 0;
+
+}
+
+h2{
+    font-size: 20px;
+}
+
+
